@@ -1,0 +1,7 @@
+print("
+Hello! Hello! Hello! Hello! Hello!/ Hello! Hello! Hello! Hello! Hello!/ 
+Hello! Hello! Hello! Hello! Hello!/ Hello! Hello! Hello! Hello! Hello!/
+Hello! Hello! Hello! Hello! Hello!/ Hello! Hello! Hello! Hello! Hello!/
+Hello! Hello! Hello! Hello! Hello!/ Hello! Hello! Hello! Hello! Hello!/
+Hello! Hello! Hello! Hello! Hello!/ Hello! Hello! Hello! Hello! Hello!/
+")

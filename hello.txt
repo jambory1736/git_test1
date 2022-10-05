@@ -1,7 +1,7 @@
 print("
-Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ 
-Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/
-Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/
-Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/
-Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/
+Bye world. Bye world. Bye world. Bye world. Bye world./ Bye world. Bye world. Bye world. Bye world. Bye world./ 
+Bye world. Bye world. Bye world. Bye world. Bye world./ Bye world. Bye world. Bye world. Bye world. Bye world./
+Bye world. Bye world. Bye world. Bye world. Bye world./ Bye world. Bye world. Bye world. Bye world. Bye world./
+Bye world. Bye world. Bye world. Bye world. Bye world./ Bye world. Bye world. Bye world. Bye world. Bye world./
+Bye world. Bye world. Bye world. Bye world. Bye world./ Bye world. Bye world. Bye world. Bye world. Bye world./
 ")

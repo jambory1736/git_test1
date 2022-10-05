@@ -1,2 +1,3 @@
 favorite fruits?
 apple
+Strawberry

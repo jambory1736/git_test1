@@ -2,3 +2,4 @@ favorite fruits?
 apple
 Strawberry
 mango
+kakao

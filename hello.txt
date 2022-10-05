@@ -1,7 +1,7 @@
 print("
-Hello! Hello! Hello! Hello! Hello!/ Hello! Hello! Hello! Hello! Hello!/ 
-Hello! Hello! Hello! Hello! Hello!/ Hello! Hello! Hello! Hello! Hello!/
-Hello! Hello! Hello! Hello! Hello!/ Hello! Hello! Hello! Hello! Hello!/
-Hello! Hello! Hello! Hello! Hello!/ Hello! Hello! Hello! Hello! Hello!/
-Hello! Hello! Hello! Hello! Hello!/ Hello! Hello! Hello! Hello! Hello!/
+Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ 
+Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/
+Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/
+Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/
+Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~ Hello Bro~/
 ")
